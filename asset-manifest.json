@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rubber-works/static/css/main.7a0c8dd3.css",
-    "main.js": "/rubber-works/static/js/main.c156e833.js",
+    "main.js": "/rubber-works/static/js/main.49703885.js",
     "static/js/638.87a3c5e5.chunk.js": "/rubber-works/static/js/638.87a3c5e5.chunk.js",
     "static/js/229.4bdc4877.chunk.js": "/rubber-works/static/js/229.4bdc4877.chunk.js",
     "static/js/325.c23c13df.chunk.js": "/rubber-works/static/js/325.c23c13df.chunk.js",
@@ -16,11 +16,11 @@
     "static/media/cb.JPG": "/rubber-works/static/media/cb.c91c4691e197a457fb82.JPG",
     "index.html": "/rubber-works/index.html",
     "main.7a0c8dd3.css.map": "/rubber-works/static/css/main.7a0c8dd3.css.map",
-    "main.c156e833.js.map": "/rubber-works/static/js/main.c156e833.js.map",
+    "main.49703885.js.map": "/rubber-works/static/js/main.49703885.js.map",
     "787.63ce1353.chunk.js.map": "/rubber-works/static/js/787.63ce1353.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a0c8dd3.css",
-    "static/js/main.c156e833.js"
+    "static/js/main.49703885.js"
   ]
 }
