@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rubber-works/static/css/main.7a0c8dd3.css",
+    "main.js": "/rubber-works/static/js/main.c156e833.js",
+    "static/js/638.87a3c5e5.chunk.js": "/rubber-works/static/js/638.87a3c5e5.chunk.js",
+    "static/js/229.4bdc4877.chunk.js": "/rubber-works/static/js/229.4bdc4877.chunk.js",
+    "static/js/325.c23c13df.chunk.js": "/rubber-works/static/js/325.c23c13df.chunk.js",
+    "static/js/63.dfbff6ab.chunk.js": "/rubber-works/static/js/63.dfbff6ab.chunk.js",
+    "static/js/82.4de03759.chunk.js": "/rubber-works/static/js/82.4de03759.chunk.js",
+    "static/js/787.63ce1353.chunk.js": "/rubber-works/static/js/787.63ce1353.chunk.js",
+    "static/media/ub.JPG": "/rubber-works/static/media/ub.e3135a9b6b787811c0bc.JPG",
+    "static/media/Logo.png": "/rubber-works/static/media/Logo.53cf07cbfa79846f5825.png",
+    "static/media/rp.JPG": "/rubber-works/static/media/rp.3d15aee699332fb2af39.JPG",
+    "static/media/rdv.JPG": "/rubber-works/static/media/rdv.08f6dffdb328f350ef31.JPG",
+    "static/media/sc.JPG": "/rubber-works/static/media/sc.b239189752edc382b8a6.JPG",
+    "static/media/cb.JPG": "/rubber-works/static/media/cb.c91c4691e197a457fb82.JPG",
+    "index.html": "/rubber-works/index.html",
+    "main.7a0c8dd3.css.map": "/rubber-works/static/css/main.7a0c8dd3.css.map",
+    "main.c156e833.js.map": "/rubber-works/static/js/main.c156e833.js.map",
+    "787.63ce1353.chunk.js.map": "/rubber-works/static/js/787.63ce1353.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a0c8dd3.css",
+    "static/js/main.c156e833.js"
+  ]
+}
