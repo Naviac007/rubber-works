@@ -12,7 +12,7 @@ import Button from '@mui/material/Button';
 import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
 //import AppLogo from '../static/Logo.png';
-const applogo =  require('../static/Logo.png')
+const applogo =  require('../../static/Logo.png')
 
 const pages = ['Products', 'Pricing', 'Contact Us'];
 function Header() {
@@ -27,7 +27,7 @@ function Header() {
   };
 
   return (
-    <AppBar position="fixed" sx={{bgcolor:"#f6b000"}}>
+    <AppBar position="sticky" sx={{bgcolor:"#f6b000"}}>
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           

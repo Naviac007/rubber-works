@@ -1,6 +1,6 @@
 import React from 'react'
-import Header from '../componets/Header';
-import SwipeSlider from '../componets/SwipeSlider';
+import Header from '../componets/Header/Header';
+import SwipeSlider from '../componets/SwipeSlider/SwipeSlider';
 import ProductDisplay from '../componets/ProductDisplay/ProductDisplay';
 import Footer from '../componets/Footer/Footer';
 function Home(props) {

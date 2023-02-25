@@ -1,6 +1,6 @@
 import React from 'react'
 import { useRef} from 'react';
-import Slide from './Slide/Slide'
+import Slide from '../Slide/Slide'
 import { register } from 'swiper/element/bundle';
 
 register();
@@ -8,7 +8,7 @@ register();
 function SwipeSlider(props) {
   const swiperElRef = useRef(null);
   return (
-    <div style={{paddingTop:"5px", marginTop:"3%"}}>
+    <div style={{paddingTop:"2px"}}>
     <swiper-container
       ref={swiperElRef}
       slides-per-view="1"
